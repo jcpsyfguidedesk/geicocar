@@ -1,0 +1,13 @@
+{# custom_layout.html - Extend default Sphinx HTML layout for GEICO Car Repair Guide #}
+
+{% extends "!layout.html" %}
+
+{% block extrahead %}
+    <meta name="google-site-verification" content="F-YT3uGrK1_cfVLDatRNevo1nokWI7cgbPbSuD2WfCA" />
+    <meta name="msvalidate.01" content="9F766CA13E27942C536E6EEFAD06E531" />
+    <meta name="description" content="Learn how to get the cheapest GEICO car repair. Step-by-step guide to filing claims, understanding deductibles, using Auto Repair Xpress®, and lowering your vehicle repair costs." />
+    <meta name="keywords" content="GEICO car repair, GEICO claim process, cheapest car repair with GEICO, Auto Repair Xpress, GEICO deductible, collision coverage, comprehensive coverage, GEICO approved repair shop" />
+    <meta name="robots" content="index, follow" />
+    <title>GEICO Car Repair – Cheapest Claim & Auto Repair Guide</title>
+    {{ super() }}
+{% endblock %}

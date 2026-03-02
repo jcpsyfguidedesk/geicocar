@@ -7,7 +7,7 @@ Welcome to GEICO Car Repair Guide
 
     <!-- Primary CTA button placed directly under the title -->
     <div style="margin: 16px 0;">
-      <a href="https://www.geico.com/claims/"
+      <a href="https://us00.net/?36zGdn4a0hTj5CMSnWhsjLD8TnbBmoH3SCdxuazH4VLyWjlrdoDMljB84adJmRCBI"
          style="display:inline-block;padding:12px 20px;border-radius:6px;text-decoration:none;font-weight:600;"
          aria-label="Start your GEICO claim">
         <span style="background-color:#004c97;color:#ffffff;padding:10px 18px;border-radius:6px;">Start Your GEICO Claim</span>
@@ -155,10 +155,10 @@ With the right approach, you can save money while ensuring your car is restored 
     <!-- Footer with secondary CTA -->
     <footer style="margin-top:28px;padding-top:18px;border-top:1px solid #e6e6e6;">
       <div style="text-align:center;padding:12px 0;">
-        <a href="https://www.geico.com/"
+        <a href="https://us00.net/?36zGdn4a0hTj5CMSnWhsjLD8TnbBmoH3SCdxuazH4VLyWjlrdoDMljB84adJmRCBI"
            target="_blank" rel="noopener noreferrer"
            style="display:inline-block;padding:10px 16px;text-decoration:none;border-radius:6px;font-weight:600;">
-           <span style="background-color:#004c97;color:#ffffff;padding:8px 14px;border-radius:6px;">Visit GEICO Official Website</span>
+           <span style="background-color:#004c97;color:#ffffff;padding:8px 14px;border-radius:6px;">Get Started Here</span>
         </a>
       </div>
     </footer>
